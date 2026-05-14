@@ -517,7 +517,9 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/cawfeechino/AMOLED-anime-theme/refs/heads/main/noirblanc.png",
-	"alpha": 1
+    	"alpha": 0.30,
+    	"size": "cover",
+    	"position": "center"
     },
     "plus": {
         "version": 0,
