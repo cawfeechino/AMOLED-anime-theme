@@ -235,9 +235,9 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/cawfeechino/AMOLED-anime-theme/refs/heads/main/koharu.jpg",
-    "blur": 0.5,
-    "alpha": 0.25,
+    "url": "https://raw.githubusercontent.com/cawfeechino/AMOLED-anime-theme/refs/heads/main/citlali.jpg",
+    "blur": 0.0,
+    "alpha": 0.35,
     "size": "cover",
     "position": "center"
   },
